@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration against Prince Rupert, or, An argument, whereby it appears, that Prince Rupert, and all that joyne with him in this unnaturall war against the Parliament, are guilty of high-treason, with an exposition of the stat. of II. Hen. 7. whereby it appeares, that those who follow the advice and imployment of the Parliament, are freed from treason, or any other offence concerning their particular actions in that service. By P.B. gent.</title>
+            <author>P. B., Gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76249</idno>
+            <idno type="STC">Wing B149</idno>
+            <idno type="STC">Thomason E85_24</idno>
+            <idno type="STC">ESTC R11609</idno>
+            <idno type="EEBO-CITATION">99859083</idno>
+            <idno type="PROQUEST">99859083</idno>
+            <idno type="VID">155673</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155673)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration against Prince Rupert, or, An argument, whereby it appears, that Prince Rupert, and all that joyne with him in this unnaturall war against the Parliament, are guilty of high-treason, with an exposition of the stat. of II. Hen. 7. whereby it appeares, that those who follow the advice and imployment of the Parliament, are freed from treason, or any other offence concerning their particular actions in that service. By P.B. gent.</title>
+                  <author>P. B., Gent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1642. [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Variant: title page lacks "By P.B. Gent."; line 3 of title ends "Rupert:".</note>
+                  <note>Annotation on Thomason copy: "Jan: 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155673:1" rendition="simple:additions"/>
+            <p>A DECLARATION AGAINST Prince Rupert, <hi>OR,</hi> An Argument, whereby it ap<g ref="char:EOLhyphen"/>pears, that Prince RUPERT, and all that joyne with him in this unnaturall War againſt the PARLIAMENT, are guilty of High-Treaſon, With an expoſition of the Stat. of 11. HEN. 7. whereby it appeares, that thoſe who follow the advice and imployment of the PARLIA<g ref="char:EOLhyphen"/>MENT, are freed from Treaſon, or any other offence concerning their particular actions in that Service.</p>
+            <p>By P.B. Gent.</p>
+            <p>
+               <hi>LONDON.</hi> Printed in the yeare 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155673:2"/>
+            <pb n="3" facs="tcp:155673:2"/>
+            <head>A DECLARATION AGAINST Prince Rupert.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat all men may the better know their duty, and upon how ſure a ground they goe that follow the judgment of Parliament for their guide; let them judiciouſly conſider the true meaning and ground of the <hi>Statute</hi> of 11. <hi>Hen.</hi> 7. <hi>cap.</hi> 1. This Statute provides, <hi>That none that ſhall attend upon the King, and doe him true ſer<g ref="char:EOLhyphen"/>vice ſhall be attainted,</hi> or forfeit any thing: What! was the ſcope of this Statute to provide, that men ſhould not ſuffer as Traytors for ſerving the King in his Warres, ac<g ref="char:EOLhyphen"/>cording to the duty of their Allegiance? if this had been all, it had beene a very needleſſe and moſt ridiculous Sta<g ref="char:EOLhyphen"/>tute: Was it then intended that they ſhould be free from all crime and penalty that ſhould follow the King, and ſerve him in Warres in any caſe whatſoever, whether it were for or againſt the Kingdome and the Lawes thereof? that cannot be, for that could not ſtand with the duty of their Allegiance, which in the beginning of that Statute is expreſt to be, ſo ſerve the King for the time being in his
+<pb n="4" facs="tcp:155673:3"/>
+Warres, for the defence of Him and the Land; and there<g ref="char:EOLhyphen"/>fore if it be againſt the Land (as it cannot be otherwiſe un<g ref="char:EOLhyphen"/>derſtood, if it be againſt the Parliament, who is the repre<g ref="char:EOLhyphen"/>ſentative body of the Kingdome) it is a declining from the duty of Allegiance, which this Statute ſuppoſeth may be done, though men follow the Kings perſon in Warre: otherwiſe there had been no need of ſuch a proviſo in the end of that Statute, that none ſhould take benefit by that Statute that ſhould decline their Allegiance: that there<g ref="char:EOLhyphen"/>fore which is the principle verbe in this Statute, is the ſer<g ref="char:EOLhyphen"/>ving of the King for the time being: which cannot be meant of a <hi>Perkin Warbeck,</hi> or any that ſhould call him<g ref="char:EOLhyphen"/>ſelfe King; but ſuch a one, as what ever his Title might prove, either in himſelfe, or in his Anceſtors, ſhould be received and acknowledged for ſuch by the Kingdome, the conſent whereof cannot be diſcern'd but by Parlia<g ref="char:EOLhyphen"/>ment; the Act whereof is the Act of the whole Kingdom, by the perſonall ſuffrage of the Peers, and the deligate conſent of all the Commons of <hi>England:</hi> and <hi>Henry</hi> the ſeventh, a wiſe King, conſidering that what was the caſe of <hi>Richard</hi> the third his predeceſſor, might by chance of Battaile be his owne, and that he might at once by ſuch a Statute as this, ſatisfie ſuch as had ſerved his predeceſſor in his Warres; and alſo ſecure thoſe that ſhould ſerve him, who might otherwiſe feare to ſerve him in the Warres, l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt by chance of battaile that might happen to him alſo (if a Duke of <hi>Yorke</hi> had ſet up a Title againſt him) which had happened to his predeceſſor: he procured this Statute to be made, <hi>That no man ſhould bee accounted a Traytor for ſerving the King in his Warres for the time being;</hi> that is, which was for the preſent allowed and re<g ref="char:EOLhyphen"/>ceived by the Parliament in behalfe of the Kingdome; and as it is truly ſuggeſted in the preamble of that Statute. It is not agreeable to reaſon or conſcience that it ſhould be otherwiſe, ſeeing men ſhould be put upon an impoſſibility of knowing their duty, if the judgment of the higheſt Court ſhould not be a guide to them: Now if the judg<g ref="char:EOLhyphen"/>ment
+<pb n="5" facs="tcp:155673:3"/>
+of that Court ſhould be followed where the queſtion is? <hi>W<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> King,</hi> (as it muſt be followed as appeares by that Statute) much more then ought their judgment to be fo<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed, when they declare, <hi>What is the beſt ſervice of the <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng and Kingdomes,</hi> and therefore thoſe that ſhall gui<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> themſelves by the judgement of Parliament, ought what<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver happen, to be ſecure and free from all accompt and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ties, upon the ground and equity of this Statute of 11. <hi>11. H. 7<g ref="char:punc">▪</g> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap.</hi> 1.</p>
+            <p>B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſid<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Parliament (that made this Act in that ele<g ref="char:EOLhyphen"/>venth yeare of <hi>Henry</hi> the ſeventh) had intended, that thoſe that ſerved the King in his wars, though never ſo unjuſtly begun, and though againſt the Kingdome and the Lawes thereof, ſhould nevertheleſſe have been free from Treaſon, and not puniſhable, then had all the liberty of the Subject been incluſively given (by that Act) from the Subject to the King: For if that were a good conſtruction, and the right intent of the Statute, then had <hi>Henry</hi> the ſeventh a lawfull diſpenſation for his obſerving thoſe Lawes, by which our liberties were ever preſerved; but that Parlia<g ref="char:EOLhyphen"/>ment never intended ſo, as you may clearly diſcerne by other wholſome Acts paſſed the ſame Parliament for the preſervation of every mans liberty and propriety in his eſtate.</p>
+            <p>Beſides, how can any people be perſwaded, that that Parliament would ſo much betray the Lawes of the Land, and the truſt repoſed in them, when as they themſelves had in their own particulars ſo great an intereſt of honour and eſtate: and whereas this preſent Parliament ſtands accuſed by ſome of deſperate fortunes and lives of the ſame tem<g ref="char:EOLhyphen"/>per, of that very fault which that Parliament of <hi>Henry</hi> the ſeventh had been guilty, were the former conſtruction ra<g ref="char:EOLhyphen"/>tionall, I hope it will gain little credit with any that have the leaſt uſe of reaſon, that ſuch as muſt have ſo great a ſhare of the miſery, ſhould take ſo much paines in procu<g ref="char:EOLhyphen"/>ring thereof, and ſpend ſo much time, and run ſo many
+<pb n="6" facs="tcp:155673:4"/>
+hazards for to make themſelves ſlaves, and to deſtroy the property of their eſtates.</p>
+            <p>And whereas ſome except againſt this Parliament for being the authors of their owne preſidents, and ſo varying from the courſe of former times; let them that urge this againſt the Parliament know, that if they have made any preſidents this Parliament, they have made them for po<g ref="char:EOLhyphen"/>ſterity; and upon the ſame or better reaſons or law, then thoſe were upon which their predeceſſors firſt made any for them: and as ſome preſidents ought not to be rules for them to follow; ſo none can be limits to bound their pro<g ref="char:EOLhyphen"/>ceedings, which may and muſt vary according to the dif<g ref="char:EOLhyphen"/>ferent condition of times: And whereas you look for pre<g ref="char:EOLhyphen"/>ſidents, to prove all the Kings Army that are now with him to be Traytors, remember who were adjudged Tray<g ref="char:EOLhyphen"/>tors in <hi>Richard</hi> the ſeconds time; and if it were Treaſon in them for levying a warre before a Parliament was cal<g ref="char:EOLhyphen"/>led, and for keeping a Parliament from being called? ſhall it not be Treaſon in them that warre againſt a Parlia<g ref="char:EOLhyphen"/>ment when it is called? Were there ever ſuch practices to poyſon the people with an ill apprehenſion of the Parlia<g ref="char:EOLhyphen"/>ment? Were there ever ſuch ſcandals and imputations laid upon the proceedings of both Houſes? Were there ever ſo many and ſo great breaches of the priviledge of Parlia<g ref="char:EOLhyphen"/>ment, as have been made this Parliament? Or were there ever ſo many and ſo deſperate deſignes of force and vio<g ref="char:EOLhyphen"/>lence againſt the Parliament, and the Members thereof? If the Parliament have done more then ever their ance<g ref="char:EOLhyphen"/>ſtors have done, I am ſure they have ſuffered more then ever they ſuffered; &amp; yet in point of modeſty or duty they need not yeild to the beſt of former times: but they may ſafely put this in iſſue, whether the higheſt &amp; moſt unwar<g ref="char:EOLhyphen"/>rantable preſident of any of His Majeſties predeceſſors do not fall ſhort and much below what hath bin done to this Parliament? And on the other ſide, whether if they ſhould make the higheſt preſidents of other Parliaments their patternes, there would be cauſe to complaine of want of
+<pb n="7" facs="tcp:155673:4"/>
+modeſty and duty in them, when they not ſo much as ſuf<g ref="char:EOLhyphen"/>fered ſuch things to enter into their thoughts (as their De<g ref="char:EOLhyphen"/>clarations tell me) which all the world knowes their Pre<g ref="char:EOLhyphen"/>deceſſors have put in act.</p>
+            <p>And whereas it ſeemes a riddle to thoſe that are with the King, that they ſhould fight for the King, and by his command, and yet be Traytors to him; for if they be Tray<g ref="char:EOLhyphen"/>tors, the King himſelfe hath done as much, being preſent with them, as they have done: and how can a King com<g ref="char:EOLhyphen"/>mit Treaſon againſt himſelfe?</p>
+            <p>To thoſe let me anſwer, that what ever the King does he is not to be queſtioned, but yet that does not cleare them, becauſe the King himſelfe doth countenance them by his perſonall preſence, and by his Comiſſions: and that their conſequence might fall to the ground, let them un<g ref="char:EOLhyphen"/>derſtand, that a King may commit Treaſon againſt him<g ref="char:EOLhyphen"/>ſelfe, and ſo did King <hi>Iohn</hi> in reſigning of his Crowne to the Pope: and M<hi rend="sup">r</hi> 
+               <hi>Brooke,</hi> who was Recorder of <hi>London,</hi> in his reading upon the Statute of <hi>Magna Charta, cap.</hi> 16. ſaid, <hi>That if any to whom the Crowne is committed by Act of Parliament, uſurpe it, or demeane it in other manner then is expreſt in the Act, it is high Treaſon:</hi> read the Sta<g ref="char:EOLhyphen"/>tute of 35. <hi>Hen.</hi> 8. <hi>c.</hi> 1. And thus you ſee, that they which joyne with the King may be puniſhed for Treaſon, though the King himſelfe cannot.</p>
+            <p>Beſides, though they intend not hurt to the Kings per<g ref="char:EOLhyphen"/>ſon, as we may gheſſe by ſeverall circumſtances, yet they may be Traytors: for tis true, that in ſome ſence he is the only perſon againſt whom Treaſon can be committed, that is meant, as he is King: But yet that Treaſon which is againſt the Kingdome, is more againſt the King, then that which is againſt his perſon, becauſe he is King; for that very Treaſon is not Treaſon as 'tis againſt him as a man, but as a man that is a King; and as he hath relation to the Kingdome, and ſtands as a perſon intruſted with the Kingdome, and diſcharging that truſt: Now if that be true, as indeed it is, that Treaſon againſt the Kingdome
+<pb n="8" facs="tcp:155673:5"/>
+is more Treaſon againſt the King, then that which is a<g ref="char:EOLhyphen"/>gainſt the Kings perſon; what ſhall become of the Kings Army, which now levy Warre againſt the Parliament, which is the Kingdome? are they not all Traytors?</p>
+            <p>But for Prince <hi>Rupert,</hi> ſome are content to make this excuſe for him, that he is no liege man borne, and is not ſubject to our Lawes, and therefore he is no Traytor, for he owes no Allegiance:</p>
+            <p>The anſwer to them will be but ſhortly thus, that any man (and ſo conſequently Prince <hi>Rupert</hi>) whilſt he is in <hi>England,</hi> and in the Kings dominions, is to yeeld a locall ligeance and obedience to the King and the Lawes, and in lieu of that he is to receive a locall Protection from the King, and ſo is, <hi>Cook<g ref="char:punc">▪</g> lib.</hi> 7. Now the difference between ſtrangers, that are both aliens, ſtands thus, if he be <hi>alien amy</hi> 'tis Treaſon for him to levy Warre againſt the King<g ref="char:EOLhyphen"/>dome (that is) againſt the King, &amp; ſo 'twas adjudged: But if he be an <hi>alien Enemy</hi> 'tis not Treaſon, but <hi>crimon leſae Majeſtatis,</hi> which is a thing of the ſame nature for the puniſhment, though not for the manner of the triall: Now Prince <hi>Rupert</hi> is an <hi>alien amy</hi> (and indeed hath more rea<g ref="char:EOLhyphen"/>ſon to be a friend to this Kingdome then an enemy, <hi>conſi<g ref="char:EOLhyphen"/>deratis conſiderandis</hi>) ſo that his offence is as plainly diſ<g ref="char:EOLhyphen"/>covered as the reſt; and appears to be no leſſe then High Treaſon againſt the Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
